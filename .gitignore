@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Rust
+target/
+
+# Env / secrets
+.env
+*.key
+id_rsa
+id_ed25519
+credentials.json
+wallet.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Archives lourdes
+*.zip
+*.tar
+*.tar.gz
+*.7z
